@@ -556,7 +556,9 @@ html body #main-outlet {
   }
 }
 
-.topic-list-data.num.views {
+.topic-list-data.num.views,
+.topic-map .views,
+.topic-footer-main .views {
   display: none;
 }
 
